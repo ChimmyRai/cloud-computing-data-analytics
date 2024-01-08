@@ -13,12 +13,12 @@ import base64
 app = Flask(__name__)
 
 ### TO EDIT ###
-sql_host = '35.201.18.70' 
-sql_connection_name='analog-pilot-389204:australia-southeast1:googlecloudsql'
-sql_port = 3306
-sql_database = 'emotions'
-sql_user = 'root'
-sql_password = 'Shiva@12345'
+sql_host = '' 
+sql_connection_name=''
+sql_port = 
+sql_database = ''
+sql_user = ''
+sql_password = ''
 ### END TO EDIT ###
 
 ### SHARED SQL FUNCTIONS ###
